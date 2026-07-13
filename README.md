@@ -30,23 +30,23 @@ The project provides insights into:
 These insights enable job seekers to make smarter career decisions while helping recruiters and analysts better understand hiring trends.
 
 🎯 PROJECT OBJECTIVES
-
+```text
 - Analyze hiring trends in the Indian technology sector.
 - Identify the most in-demand technical skills.
 - Discover top hiring companies and locations.
 - Analyze salary patterns across different job roles.
 - Visualize insights using interactive Power BI dashboards.
 - Support data-driven career planning and recruitment decisions.
-
+```
 🛠️ TECH STACK 
-
+```text
 - Python
 - Pandas
 - NumPy
 - Jupyter Notebook
 - Microsoft Excel
 - Power BI
-
+```
 📂 Project Structure
 
 ```text
@@ -81,7 +81,7 @@ TalentLens-AI
 📊 DATASET 
 
 The dataset contains Indian technology job postings with information such as:
-
+```text
 - Job Title
 - Company Name
 - Location
@@ -90,13 +90,13 @@ The dataset contains Indian technology job postings with information such as:
 - Technical Skills
 - Job Description
 - Upload Date
-
+```
 🧹 DATA CLEANING & PREPROCESSING   
 
 The dataset was cleaned and transformed using Python.
 
 Steps performed include:
-
+```text
 - Removed duplicate records
 - Handled missing values
 - Standardized job titles
@@ -104,11 +104,11 @@ Steps performed include:
 - Extracted technical skills
 - Calculated average salary
 - Created separate datasets for salary and skills analysis
-
+```
  📈 EXPLORATORY DATA ANALYSIS    
 
 The analysis focuses on:
-
+```text
 - Top Hiring Companies
 - Top Hiring Locations
 - Most In-Demand Job Roles
@@ -116,11 +116,11 @@ The analysis focuses on:
 - Skill Demand Analysis
 - Salary Analysis
 - Technology Trends
-
+```
 📊 POWER BI DASHBOARDS    
 
 Dashboard 1 — Job Market Overview
-
+```text
 - Total Tech Jobs
 - Hiring Companies
 - Hiring Locations
@@ -128,40 +128,40 @@ Dashboard 1 — Job Market Overview
 - Top Hiring Companies
 - Top Hiring Locations
 - Experience Distribution
-
+```
 Dashboard 2 — Skills Analysis
-
+```text
 - Top Technical Skills
 - Programming Languages
 - Cloud & DevOps Technologies
 - Frameworks & Tools
-
+```
 Dashboard 3 — Salary Analysis
-
+```text
 - Average Salary
 - Highest Paying Job Roles
 - Highest Paying Companies
 - Highest Paying Locations
 - Salary Distribution
-
+```
 Dashboard 4 — Executive Summary
-
+```text
 - Project Insights
 - Business Recommendations
 - Key Findings
 - Executive Summary
-
+```
 🔍 KEY INSIGHTS           
-
+```text
 - Python emerged as the most in-demand programming language.
 - Java and SQL continue to be among the most requested technical skills.
 - AWS leads cloud technology demand across job postings.
 - Bengaluru, Hyderabad, Pune, and Gurugram are major technology hiring hubs.
 - Mid-level professionals account for a significant share of technology job openings.
 - Salary trends vary considerably across companies, locations, and job roles.
-
+```
 👩‍💻 AUTHOR             
-
+```text
 **Jayasree Chakraborty**
 
 B.Tech Computer Science & Engineering
@@ -169,4 +169,4 @@ B.Tech Computer Science & Engineering
 Passionate about Data Analytics, Business Intelligence, and AI-driven solutions.
 
 If you found this project useful, consider giving it a star!
-
+```
