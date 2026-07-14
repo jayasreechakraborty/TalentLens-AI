@@ -157,7 +157,8 @@ Dashboard 3 — Salary Analysis
 ```
 
 
-<img width="689" height="380" alt="SALARY ANALYSIS" src="https://github.com/user-attachments/assets/0006405b-d30f-4b51-9403-bd7ac7120a1b" />
+<img width="689" height="382" alt="Salary-Analysis" src="https://github.com/user-attachments/assets/8ffda172-916d-4093-a5ad-67b244357949" />
+
 
 
 Dashboard 4 — Executive Summary
