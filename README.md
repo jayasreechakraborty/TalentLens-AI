@@ -121,18 +121,6 @@ The analysis focuses on:
 
 DASHBOARDS :
 
-<img width="692" height="383" alt="JOB MARKET ANALYSIS" src="https://github.com/user-attachments/assets/c611c9f6-6efd-469a-84a2-d0c69ef02006" />
-
-
-<img width="688" height="381" alt="SKILL ANALYSIS" src="https://github.com/user-attachments/assets/13030a02-6942-4759-8ea7-7d878b646b8c" />
-
-
-<img width="689" height="380" alt="SALARY ANALYSIS" src="https://github.com/user-attachments/assets/0006405b-d30f-4b51-9403-bd7ac7120a1b" />
-
-
-<img width="685" height="383" alt="INSIGHTS" src="https://github.com/user-attachments/assets/76c78d6e-924e-48c4-ac65-78438cbc0101" />
-
-
 Dashboard 1 — Job Market Overview
 ```text
 - Total Tech Jobs
@@ -143,6 +131,10 @@ Dashboard 1 — Job Market Overview
 - Top Hiring Locations
 - Experience Distribution
 ```
+
+<img width="692" height="383" alt="JOB MARKET ANALYSIS" src="https://github.com/user-attachments/assets/c611c9f6-6efd-469a-84a2-d0c69ef02006" />
+
+
 Dashboard 2 — Skills Analysis
 ```text
 - Top Technical Skills
@@ -150,6 +142,11 @@ Dashboard 2 — Skills Analysis
 - Cloud & DevOps Technologies
 - Frameworks & Tools
 ```
+
+
+<img width="688" height="381" alt="SKILL ANALYSIS" src="https://github.com/user-attachments/assets/13030a02-6942-4759-8ea7-7d878b646b8c" />
+
+
 Dashboard 3 — Salary Analysis
 ```text
 - Average Salary
@@ -158,6 +155,11 @@ Dashboard 3 — Salary Analysis
 - Highest Paying Locations
 - Salary Distribution
 ```
+
+
+<img width="689" height="380" alt="SALARY ANALYSIS" src="https://github.com/user-attachments/assets/0006405b-d30f-4b51-9403-bd7ac7120a1b" />
+
+
 Dashboard 4 — Executive Summary
 ```text
 - Project Insights
@@ -165,6 +167,12 @@ Dashboard 4 — Executive Summary
 - Key Findings
 - Executive Summary
 ```
+
+
+<img width="685" height="383" alt="INSIGHTS" src="https://github.com/user-attachments/assets/76c78d6e-924e-48c4-ac65-78438cbc0101" />
+
+
+
 🔍 KEY INSIGHTS           
 ```text
 - Python emerged as the most in-demand programming language.
