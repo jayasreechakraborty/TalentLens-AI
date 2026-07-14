@@ -117,12 +117,14 @@ The analysis focuses on:
 - Salary Analysis
 - Technology Trends
 ```
-📊 POWER BI DASHBOARDS    
+## 📊 Power BI Dashboards
 
-DASHBOARDS :
+---
 
-Dashboard 1 — Job Market Overview
-```text
+### 📈 Dashboard 1 — Job Market Overview
+
+**Features:**
+
 - Total Tech Jobs
 - Hiring Companies
 - Hiring Locations
@@ -130,59 +132,69 @@ Dashboard 1 — Job Market Overview
 - Top Hiring Companies
 - Top Hiring Locations
 - Experience Distribution
-```
+
+<br>
 
 <img width="692" height="383" alt="JOB MARKET ANALYSIS" src="https://github.com/user-attachments/assets/c611c9f6-6efd-469a-84a2-d0c69ef02006" />
 
+---
 
-Dashboard 2 — Skills Analysis
-```text
+### 🛠️ Dashboard 2 — Skills Analysis
+
+**Features:**
+
 - Top Technical Skills
 - Programming Languages
 - Cloud & DevOps Technologies
 - Frameworks & Tools
-```
 
+<br>
 
 <img width="688" height="381" alt="SKILL ANALYSIS" src="https://github.com/user-attachments/assets/13030a02-6942-4759-8ea7-7d878b646b8c" />
 
+---
 
-Dashboard 3 — Salary Analysis
-```text
+### 💰 Dashboard 3 — Salary Analysis
+
+**Features:**
+
 - Average Salary
 - Highest Paying Job Roles
 - Highest Paying Companies
 - Highest Paying Locations
 - Salary Distribution
-```
 
+<br>
 
-<img width="689" height="382" alt="Salary-Analysis" src="https://github.com/user-attachments/assets/8ffda172-916d-4093-a5ad-67b244357949" />
+<img width="689" height="382" alt="Salary Analysis" src="https://github.com/user-attachments/assets/8ffda172-916d-4093-a5ad-67b244357949" />
 
+---
 
+### 📋 Dashboard 4 — Executive Summary
 
-Dashboard 4 — Executive Summary
-```text
+**Features:**
+
 - Project Insights
 - Business Recommendations
 - Key Findings
 - Executive Summary
-```
 
+<br>
 
 <img width="685" height="383" alt="INSIGHTS" src="https://github.com/user-attachments/assets/76c78d6e-924e-48c4-ac65-78438cbc0101" />
 
+---
 
+## 🔍 Key Insights
 
-🔍 KEY INSIGHTS           
-```text
 - Python emerged as the most in-demand programming language.
 - Java and SQL continue to be among the most requested technical skills.
 - AWS leads cloud technology demand across job postings.
 - Bengaluru, Hyderabad, Pune, and Gurugram are major technology hiring hubs.
 - Mid-level professionals account for a significant share of technology job openings.
 - Salary trends vary considerably across companies, locations, and job roles.
-```
+
+  
 👩‍💻 AUTHOR             
 ```text
 **Jayasree Chakraborty**
