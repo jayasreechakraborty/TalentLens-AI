@@ -119,6 +119,20 @@ The analysis focuses on:
 ```
 📊 POWER BI DASHBOARDS    
 
+DASHBOARDS :
+
+<img width="692" height="383" alt="JOB MARKET ANALYSIS" src="https://github.com/user-attachments/assets/c611c9f6-6efd-469a-84a2-d0c69ef02006" />
+
+
+<img width="688" height="381" alt="SKILL ANALYSIS" src="https://github.com/user-attachments/assets/13030a02-6942-4759-8ea7-7d878b646b8c" />
+
+
+<img width="689" height="380" alt="SALARY ANALYSIS" src="https://github.com/user-attachments/assets/0006405b-d30f-4b51-9403-bd7ac7120a1b" />
+
+
+<img width="685" height="383" alt="INSIGHTS" src="https://github.com/user-attachments/assets/76c78d6e-924e-48c4-ac65-78438cbc0101" />
+
+
 Dashboard 1 — Job Market Overview
 ```text
 - Total Tech Jobs
